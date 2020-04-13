@@ -1,0 +1,8 @@
+<HTML>
+<head>
+<h1>welcome to first application</h1>
+</head>
+<body>
+Hi How are you
+</body>
+</HTML>
